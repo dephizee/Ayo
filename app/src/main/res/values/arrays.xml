@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="new_game_list">
+        <item>@string/single_player</item>
+        <item>@string/multiple_players</item>
+    </array>
+</resources>

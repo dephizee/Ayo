@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayo</string>
+    <string name="new_game">New Game</string>
+    <string name="active_game">Active Games</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="single_player">Single Player</string>
+    <string name="multiple_players">Multi Player</string>
+</resources>
